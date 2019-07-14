@@ -1,5 +1,5 @@
 ![Mozilla Add-on](https://img.shields.io/badge/dynamic/json.svg?style=flat&logo=appveyor&label=Version&prefix=v.&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FToso82%2FAg8-Test%2Fmaster%2Fpackage.json)
-![Mozilla Add-on](https://img.shields.io/badge/dynamic/json.svg?style=flat&logo=appveyor&label=rxjs&query=dependencies/rxjs&url=https%3A%2F%2Fraw.githubusercontent.com%2FToso82%2FAg8-Test%2Fmaster%2Fpackage.json)
+![Mozilla Add-on](https://img.shields.io/badge/dynamic/json.svg?style=flat&logo=appveyor&label=rxjs&query=dependencies.rxjs&url=https%3A%2F%2Fraw.githubusercontent.com%2FToso82%2FAg8-Test%2Fmaster%2Fpackage.json)
 
 
 # Ag8Test
