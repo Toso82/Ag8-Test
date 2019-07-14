@@ -1,3 +1,8 @@
+![Mozilla Add-on](https://img.shields.io/badge/dynamic/json.svg?style=flat&logo=appveyor&label=Version&prefix=v.&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FToso82%2FAg8-Test%2Fmaster%2Fpackage.json)
+
+![Mozilla Add-on](https://img.shields.io/badge/dynamic/json.svg?style=flat&logo=appveyor&label=Angular %2Version&prefix=v.&query=@angular/core&url=https%3A%2F%2Fraw.githubusercontent.com%2FToso82%2FAg8-Test%2Fmaster%2Fpackage.json)
+
+
 # Ag8Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
